@@ -1,6 +1,6 @@
-<h1>Hello there! ✌ Jerry here! </h1>
+<h1>Hello there! ✌ Jerry here! <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"></h1>
 
-<h3 align="left">A Cybersecurity student at Wrocław Tech researching Data Science</h3>
+<h3 align="left">A Cybersecurity student at Wrocław Tech researching Data Science </h3>
 
 <h2>About me:</h2>
 
