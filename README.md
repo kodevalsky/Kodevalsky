@@ -2,10 +2,6 @@
 
 <h3 align="left">A Cybersecurity student at Wrocław Tech researching Data Science</h3>
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/4eypShqG7ddoN6BGHK/giphy.gif" width="300"/>
-</div>
-
 <h2>About me:</h2>
 
 - 🌱 I’m currently learning **Scikit-learn and Seaborn**!
