@@ -9,8 +9,6 @@
 
 - 📫 How to reach me: **jeremikow@gmail.com**!
 
-- :milky_way: Software developer at <a href="https://www.scorpio.pwr.edu.pl/">Project Scorpio!</a>
-
 - :robot: Interesed in ML and 
 
 - 💬 <a href="https://teencrunch.org/">TeenCrunch</a> participant
