@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **jeremikow@gmail.com**!
 
-- :robot: Interesed in ML and 
+- :robot: Interesed in ML and AISec
 
 - 💬 <a href="https://teencrunch.org/">TeenCrunch</a> participant
 
