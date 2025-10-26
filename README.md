@@ -1,4 +1,4 @@
-<h1>Hello there! ✌ Jerry here! <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"></h1>
+<h1>Hello there! ✌ Jeremy here! <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"></h1>
 
 <h3 align="left">Cybersecurity student at <a href="https://pwr.edu.pl/">Wrocław Tech</a> researching AI</h3>
 <h3 align="left">In the future I want to become a AISec professional and researcher! 👨‍🔬</h3>
@@ -6,15 +6,11 @@
 
 <h2>About me:</h2>
 
-- 🌱 I’m currently learning **Keras and Tensorflow**!
-
 - 📫 How to reach me: **jeremikow@gmail.com**!
 
 - :robot: Interesed in ML and AISec
 
 - 💬 <a href="https://teencrunch.org/">TeenCrunch</a> participant
-
-- 📝 Writing a thesis about Language Models!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
